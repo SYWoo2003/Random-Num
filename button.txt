@@ -1,3 +1,0 @@
-//ActionScript 2.0
-//AngelScript가 아닙니다.
-on(release){_root.num = random(35)+1;}
